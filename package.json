@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "puppeteer-core": "^13.1.2",
+    "react-scripts": "^5.0.0"
+  },
+  "scripts": {
+    "start": "node adidas-india.js",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  }
+}
